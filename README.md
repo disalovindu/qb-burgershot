@@ -23,15 +23,6 @@ qb-input - https://github.com/qbcore-framework/qb-input
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
-
-## Credits : 
-
-- BerkieB for his qb-target.
-
-## Newly Added
-
-- Different types of coupons 
-
 ## Insert into @qb-smallresources --> server --> consumables.lua
 ```
 --Burgershot
