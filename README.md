@@ -23,6 +23,8 @@ qb-input - https://github.com/qbcore-framework/qb-input
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
+interior - https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem
+
 ## Insert into @qb-smallresources --> server --> consumables.lua
 ```
 --Burgershot
