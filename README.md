@@ -13,17 +13,17 @@ Original Creator: [Github Link](https://github.com/Zach488/qb-burgershot)
 
 ## Dependencies :
 
-QBCore Framework - https://github.com/qbcore-framework/qb-core
+[QBCore Framework](https://github.com/qbcore-framework/qb-core)
 
-PolyZone - https://github.com/mkafrin/PolyZone
+[PolyZone](https://github.com/mkafrin/PolyZone)
 
-qb-target - https://github.com/BerkieBb/qb-target (Only needed if not using draw text)
+[qb-target](https://github.com/BerkieBb/qb-target)
 
-qb-input - https://github.com/qbcore-framework/qb-input
+[qb-input](https://github.com/qbcore-framework/qb-input)
 
-qb-menu - https://github.com/qbcore-framework/qb-menu
+[qb-menu](https://github.com/qbcore-framework/qb-menu)
 
-interior - https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem
+[interior](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem)
 
 ## Insert into @qb-smallresources --> server --> consumables.lua
 ```
