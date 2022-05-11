@@ -53,6 +53,7 @@ AddEventHandler('qb-burgershot:spawn:ped',function(coords)
     	pedspawned = true
 	npc = CreatePed(5, hash, coords.x, coords.y, coords.z - 1.0, coords.w, false, false)
 	FreezeEntityPosition(npc, true)
+	SetEntityInvincible(npc, true)	
     	SetBlockingOfNonTemporaryEvents(npc, true)
 	loadAnimDict("amb@world_human_cop_idles@male@idle_b") 
 	TaskPlayAnim(npc, "amb@world_human_cop_idles@male@idle_b", "idle_e", 8.0, 1.0, -1, 17, 0, 0, 0, 0)
