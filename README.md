@@ -189,7 +189,7 @@ QBShared.Jobs = {
 ```
 # if not making use of qb-target no need to insert this into qb-target
 
-## Insert into @qb-target - config.lua - config.targetmodels
+## Insert into @qb-target - init.lua - config.targetmodels
 ``` 
 ["burgershotgarage"] = {
 			models = {
